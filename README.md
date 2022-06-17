@@ -32,6 +32,10 @@ As most of our products are in VueJs so we will highly recommend you use VueJs f
 ## How to run?
 To be added by the candidate
 
+## Deadline
+Please complete it within 3 days of assignment. 
+
 ## Popular resources
 1. [Vue](https://vuejs.org/guide/introduction.html)
 2. [Vuetify](https://vuetifyjs.com/en/) (Hint: this can make your life really easier and will give you additional points)
+
