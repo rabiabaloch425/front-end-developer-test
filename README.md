@@ -8,15 +8,17 @@ The intended purpose is to test your front-end skills, ranging from UI design, a
 
 ## Design tasks
 
-1. Goto the link [unsplash](https://unsplash.com/images/food).
+1. Goto the link [unsplash](https://unsplash.com/blog/).
 2. Analyze the design, you need to make something similar to this page, but of course, it won't be dynamic. It would be a static page.
 3. The closer you get to the design, the more you score.
 4. Mobile-first Pleaaaassseee!!!!
 
 ## API tasks
 
-1. You have a section called [Popular categories](https://ibb.co/C9y8wQp)
-2. You need to integrate this [API](https://demo2.meals4u.net/fe/api.test.php), so popular categories will only be a dynamic area in this page.
+1. You have a section called [Latest from the team](https://ibb.co/dfvSCyL)
+2. You need to integrate this [API](https://demo2.meals4u.net/fe/api.test.php), so blog area will only be a dynamic area in this page.
+3. Send a post request with "page" as a parameter [Chek this screen shot](https://ibb.co/ydnCvjc)
+3. Load More should work!!!
 
 ## Tools and technologies
 
