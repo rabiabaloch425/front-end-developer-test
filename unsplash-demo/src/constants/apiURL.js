@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://demo2.meals4u.net/fe"
